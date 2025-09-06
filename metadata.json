@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of IntelliAgent: Homework & Code AI",
+  "description": "A powerful AI assistant designed to help with homework across various subjects and grades, and to act as an expert coding agent. Features file uploads, subject selection, and a streamlined chat interface similar to ChatGPT.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
